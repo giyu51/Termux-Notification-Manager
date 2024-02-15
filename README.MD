@@ -34,6 +34,8 @@ This project was inspired by the need to effectively manage and prioritize notif
    - `--search_key`: Search key for matching notifications (default: `title`).
    - `--check_interval`: Amount of time in seconds to check for notifications (default: `5` seconds).
 
+➕ If you want to manipulate the script on a more precise level, you can explore the termux-notification-list command within Termux. This command will explain and show you the structure of the notifications, helping you to understand which fields the script is referring to when customizing your alert criteria.
+
 ### Running the Script:
 
 1. Ensure your Android device is unlocked and Termux is open.
